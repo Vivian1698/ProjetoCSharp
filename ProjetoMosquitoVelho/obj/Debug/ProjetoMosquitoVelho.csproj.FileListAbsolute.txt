@@ -1,0 +1,14 @@
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.exe.config
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.exe
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.pdb
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.AssemblyReference.cache
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.Properties.Resources.resources
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.GenerateResource.cache
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.CoreCompileInputs.cache
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.exe
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.pdb
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmSplash.resources
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmLogin.resources
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.EmpresaABC.resources
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmComponents.resources
+C:\Users\vivian.pfidelis\Documents\Visual Studio 2019\EmpresaABC\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmCalculadora.resources
